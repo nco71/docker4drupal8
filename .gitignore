@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*
+*/
+*.
+!docker-compose.yml
+!.gitignore
+!readme.md
+!.gitkeep
+!gulp/
+!gulp/*
+!jenkins/
+!jenkins/*
+
+
